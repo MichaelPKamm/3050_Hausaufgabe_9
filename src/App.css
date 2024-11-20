@@ -10,3 +10,8 @@
   border-bottom: 1px solid #007cc3;
   height: 60px;
 }
+
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
